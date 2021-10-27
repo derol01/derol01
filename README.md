@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @derol01 I am a technical writer.
+- 👋 Hi, I’m @derol01, I am a technical writer.
 - 👀 I’m interested in achieving results.
 - 🌱 I’m currently learning how to use markdown.
 - 💞️ I’m looking to collaborate on an educational project for people who are new to the mainframe.
