@@ -1,7 +1,7 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
+gemspec
 
-git_source(:github) { |derol01| "https://github.com/#{derol01}.git" }
-
-# gem "rails"
+gem "jekyll"
+gem "bundler"
+gem "webrick", "~> 1.7"
+gem "github-pages"
