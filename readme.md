@@ -28,8 +28,10 @@ Ordered list:
   
 1. Step one.
 2. Step two.
-3. Step three.
-4. Step four.
+    1. Indented item.
+    2. Indented item.
+4. Step three.
+5. Step four.
 
 Unordered list:  
 
