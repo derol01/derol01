@@ -30,8 +30,8 @@ Ordered list:
 2. Step two.  
 3. Step three.  
 
-   1.Indented item.  
-   2.Indented item.  
+   1. Indented item.  
+   2. Indented item.  
 
 4. Step four.  
 
