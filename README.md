@@ -8,7 +8,7 @@ I am derol01, a technical writer. I work for a software company and enjoy workin
 
 * z/OS basics
 * DITA XML editing
-* GitHub Markdown basics
+* GitHub Markdown
 
 Check out some of the awesome content that me and my team created over the years at [Tech Docs.](https://techdocs.broadcom.com)
 
