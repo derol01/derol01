@@ -14,7 +14,7 @@ Check out some of the awesome content that me and my team created over the years
 
 Here is an image:
 
-![](<.gitbook/assets/One ring.jpg>)
+![](<.gitbook/assets/Rick Astley.jpg>)
 
 Learn how to use markdown in three easy steps:
 
